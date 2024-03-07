@@ -1,0 +1,961 @@
+V2_13/6/201715:39:09
+CONSELHO REGIONAL DE MEDICINA
+ESTADO DO RIO GRANDE DO SUL
+CONCURSO PÚBLICO Nº 01/2017
+Instruções
+Leia atentamente e cumpra rigorosamente as instruções que seguem, pois elas são parte integrante das
+provas e das normas que regem esse Concurso Público.
+1. Atente-se aos avisos contidos no quadro da sala.
+2. Seus pertences deverão ser armazenados dentro do saco plástico fornecido pelo fiscal. Somente
+devem permanecer em posse do candidato caneta esferográfica de material transparente com tinta azul
+ou preta de ponta grossa, documento de identidade, lanche e água, se houver. A utilização de qualquer
+material não permitido em edital é expressamente proibida, acarretando a imediata exclusão do
+candidato.
+3. Verifique se o cargo constante na capa deste caderno é aquele para o qual realizou a inscrição.
+4. Cada questão oferece 5 (cinco) alternativas de respostas, representadas pelas letras A, B, C, D e E,
+sendo apenas 1 (uma) a resposta correta.
+5. Será respeitado o tempo para realização da prova conforme previsto em edital, incluindo o
+preenchimento da grade de respostas.
+6. Os dois últimos candidatos deverão retirar-se da sala de prova ao mesmo tempo, devendo assinar a
+Ata de Prova.
+7. Nenhuma informação sobre o conteúdo das questões será dada pelo fiscal.
+8. No caderno de prova, o candidato poderá rabiscar, riscar e calcular.
+9. Os gabaritos preliminares da prova objetiva serão divulgados na data descrita no Cronograma de
+Execução desse Concurso ou Processo Seletivo.
+10. Certifique-se de que este caderno contém 50 (cinquenta) questões. Caso contrário, solicite ao fiscal
+da sala a sua substituição.
+Boa prova!
+TÉCNICO EM INFORMÁTICA
+430_LP_NM_21/6/201714:50:57
+Execução: Fundatec
+NÍVEL MÉDIO
+2
+LÍNGUA PORTUGUESA
+Instrução: As questões de números 01 a 10 referem-se ao texto abaixo. Os destaques ao
+longo do texto estão citados nas questões.
+
+Instagram é a rede social mais nociva à saúde mental
+Por Pâmela Carbonari
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+Sabe aquele baixo astral que dá quando você fica muito tempo nas redes sociais? Não é só
+com você. Além do tempo perdido, as horas que passamos conectados também afetam nossa
+saúde mental. A coisa funciona como uma droga, afinal: quanto mais tempo você passa diante
+do celular ou do computador, mais tempo você quer ficar.
+A metáfora não é em vão. Redes sociais são mais viciantes que álcool e cigarro – é o que diz
+a pesquisa realizada pela instituição de saúde pública do Reino Unido, Royal Society for Public
+Health, em parceria com o Movimento de Saúde Jovem. E, dentre elas, o Instagram foi avaliado
+como a mais prejudicial à mente dos jovens.
+Os resultados mostram que 90% das pessoas entre 14 e 24 anos usam redes sociais mais do
+que qualquer outro grupo etário, o que os torna ainda mais vulneráveis a seus efeitos colaterais.
+Ao mesmo tempo, as taxas de ansiedade e depressão nessa parcela da população aumentaram
+70% nos últimos 25 anos. Os jovens avaliados estão ansiosos, deprimidos, com a autoestima
+baixa, sem sono, e a razão disso tudo pode estar na palma das mãos deles: nas redes sociais,
+justamente.
+Ao longo da pesquisa, 1.479 indivíduos entre 14 e 24 anos tiveram que ranquear o quanto as
+principais redes (Youtube, Instagram, Twitter e Snapchat) influenciavam seu sentimento de
+comunidade, _________, ansiedade e solidão.
+O estudo mostrou que o compartilhamento de fotos pelo Instagram impacta negativamente o
+sono, a autoimagem e aumenta o medo dos jovens de ficar por fora dos acontecimentos e das
+tendências. Segundo a pesquisa, o site menos nocivo é o YouTube, seguido do Twitter. Facebook
+e Snapchat ficaram em terceira e quarta posição, respectivamente.
+Apesar do Youtube ser um dos sites que mais deixam os jovens acordados até altas horas, o
+site foi avaliado como o que menos prejudicou a comodidade dos participantes. Instagram, em
+contrapartida, recebeu mais da metade das avaliações negativas. Sete em cada 10 voluntários
+disseram que o app fez com que eles se sentissem pior em relação à própria autoimagem. Entre
+as meninas, o efeito Instagram foi ainda mais devastador: nove em cada 10 se sentem infelizes
+com seus corpos e pensam em mudar a própria aparência, cogitando, inclusive, procedimentos
+cirúrgicos.
+A “vida perfeita” compartilhada nas redes sociais faz com que os jovens desenvolvam irreais
+______________ sobre suas próprias vivências. Não à toa, esse perfeccionismo atrelado à baixa
+estima pode desencadear sérios problemas de ansiedade. Os pesquisadores advertem: os
+usuários que passam mais do que duas horas diárias conectados em mídias sociais são mais
+propensos a desenvolverem distúrbios de saúde mental, como estresse ___________. “As
+plataformas que supostamente ajudam os jovens a se conectarem podem estar alimentando uma
+crise de saúde mental”, afirmou a Royal Society for Public Heath, na divulgação dos resultados
+da pesquisa.
+Texto adaptado para essa prova - http://super.abril.com.br/sociedade/instagram-e-a-redesocial-mais-prejudicial-a-saude-mental/
+430_LP_NM_21/6/201714:50:57
+Execução: Fundatec
+NÍVEL MÉDIO
+3
+QUESTÃO 01 – Analise as seguintes
+assertivas em relação ao texto:
+I. As horas que passamos conectados às
+redes sociais viciam tanto ou até mais do
+que o fumo e o álcool.
+II. As redes sociais podem contribuem para a
+crise de saúde mental de jovens entre 14
+e 24 anos, conforme pesquisa apontada
+no texto.
+III. Os jovens que passam muito tempo
+conectados nas redes sociais tornam-se
+propensos ao uso de drogas e álcool.
+Quais estão corretas?
+A) Apenas I.
+B) Apenas II.
+C) Apenas I e II.
+D) Apenas I e III.
+E) I, II e III.
+QUESTÃO 02 – Analise as seguintes
+informações implícitas do texto, assinalando
+V, se verdadeiras, ou F, se falsas.
+( ) A razão dos jovens estarem cada vez mais
+deprimidos, ansiosos e sem sono está
+relacionada ao tempo que passam
+conectados ao Instagram.
+( ) A pesquisa avaliou 1.479 indivíduos e
+apontou quais sentimentos são mais
+comuns entre os jovens de 14 a 24 anos
+ao fazerem uso das redes sociais.
+( ) Dos aplicativos avaliados no estudo, o
+Youtube é o menos nocivo,
+diferentemente do Instagram, que
+recebeu o maior número de avaliações
+negativas.
+A ordem correta de preenchimento dos
+parênteses, de cima para baixo, é:
+A) V – V – F.
+B) F – F – V.
+C) V – F – V.
+D) F – V – F.
+E) V – V – V.
+QUESTÃO 03 – Na frase “As plataformas que
+supostamente ajudam os jovens a se
+conectarem podem estar alimentando uma
+crise de saúde mental” (l. 33 a 35), caso a
+palavra “plataformas” fosse substituída pela
+sua forma singular, quantas outras alterações
+deveriam ocorrer para manter a correção da
+frase?
+A) Uma.
+B) Duas.
+C) Três.
+D) Quatro.
+E) Cinco.
+QUESTÃO 04 – A expressão “dentre elas”
+(l.07) corresponde:
+A) À “metáfora” (l. 05).
+B) À “pesquisa” (l. 06).
+C) À “instituição de saúde pública” (l. 06).
+D) Às “redes sociais” (l. 05).
+E) Ao “Instagram” (l. 07).
+QUESTÃO 05 – As lacunas das linhas 17, 30
+e 33 podem ser preenchidas de forma correta,
+respectivamente, pelas palavras:
+A) bem estar – expectativas – psico-social
+B) bem estar – espectativas – psicossocial
+C) bem estar – expectativas – psicossocial
+D) bem-estar – espectativas – psico-social
+E) bem-estar – expectativas – psicossocial
+QUESTÃO 06 – Analise as seguintes
+assertivas sobre a pontuação do texto:
+I. A vírgula da linha 06 e a primeira da linha
+07 foram empregadas para separar um
+aposto.
+II. A vírgula da linha 19 foi empregada para
+separar uma oração de caráter
+explicativo.
+III. O emprego dos dois-pontos, linha 26, foi
+realizado com o intuito de indicar um
+resultado.
+Quais estão corretas?
+A) Apenas I.
+B) Apenas II.
+C) Apenas I e III.
+D) Apenas II e III.
+E) I, II e III.
+430_LP_NM
+_21/6/201714:50:57
+Execução: Fundatec
+NÍVEL MÉDIO
+4
+QUESTÃO 07
+– Assinale a alternativa correta
+sobre grafemas e grafias.
+A) O vocábulo “perfeccionismo” apresenta 14
+letras e 13 fonemas.
+B) Na palavra “compartilhamento”, o
+-lh
+representa um encontro consonantal.
+C) A palavra “tempo” apresenta dígrafo que
+representa uma vogal nasal.
+D) A palavra “quando” apresenta ditongo
+decrescente.
+E) A palavra “saúde” apresenta um ditongo
+decrescente.
+QUESTÃO 08
+– Na frase “Redes sociais são
+mais viciantes que álcool e cigarro”, os termos
+sublinhados são classificados, correta e
+respectivamente, como:
+A) Sujeito
+– predicativo do sujeito.
+B) Predicativo do sujeito
+– sujeito.
+C) Sujeito
+– complemento nominal.
+D) Objeto direto
+– complemento nominal.
+E) Sujeito
+– predicado verbal.
+QUESTÃO 09
+– Figuras de linguagem são
+recursos especiais de que se vale quem fala ou
+escreve, para comunicar à expressão mais
+força e colorido, intensidade e beleza
+(CEGALLA, 2007). Na linha 05, o autor do
+texto faz menção à figura de linguagem
+denominada metáfora. Assinale a alternativa
+que exemplifica esse tipo de recurso.
+A) Nas horas de folga lia Camões.
+B) Foi o que vi com meus próprios olhos.
+C) Fulano foi desta para melhor.
+D) Chorou rios de lágrimas.
+E) Toda profissão tem seus espinhos.
+QUESTÃO 10
+– Assinale a alternativa que
+apresenta, correta e respectivamente, a
+separação silábica das palavras aparência,
+ansiedade
+e cigarro.
+A)
+a
+-pa
+-rên
+-ci
+-
+a
+/ an
+-si
+-
+e
+-da
+-de / ci
+-gar
+-ro
+.
+B)
+a
+-pa
+-rên
+-cia / an
+-sie
+-da
+-de / ci
+-ga
+-rro
+.
+C)
+a
+-par
+-ên
+-ci
+-a / an
+-si
+-
+e
+-da
+-de / ci
+-gar
+-ro
+.
+D) apa
+-rên
+-cia / an
+-si
+-
+e
+-da
+-de / ci
+-ga
+-rro
+.
+E)
+a
+-pa
+-rên
+-ci
+-a / an
+-sie
+-da
+-de / ci
+-gar
+-ro
+.
+430_LEG_NM_21/6/201714:53:22
+Execução: Fundatec
+NÍVEL MÉDIO
+5
+LEGISLAÇÃO
+Para responder às questões de 11 a 14,
+considere o disposto no Decreto Federal
+nº 44.045/1958, que aprova o
+Regulamento do Conselho Federal e dos
+Conselhos Regionais de Medicina.
+Considere o contexto apresentado na
+notícia abaixo para responder às questões
+11 e 12.
+“Os novos presidentes dos conselhos regionais
+de medicina (CRMs) eleitos em dezembro de
+2016 e em janeiro deste ano participaram, nesta
+quarta-feira (8), da primeira reunião de 2017
+entre a diretoria do Conselho Federal de
+Medicina (CFM) e os dirigentes regionais. O
+presidente do Cremers, Fernando Weber Matos,
+esteve presente. No encontro, os novos
+representantes – dos Estados de Rondônia e
+Tocantins, no Norte; Distrito Federal, Goiás e
+Mato Grosso do Sul, no Centro-Oeste; Rio de
+Janeiro, no Sudeste; e Paraná, Rio Grande do
+Sul e Santa Catarina, no Sul – foram
+apresentados por seus antecessores e falaram
+sobre as expectativas em relação ao novo cargo.
+(...) O novo grupo estará à frente dos CRMs por
+20 meses e participará de reuniões periódicas
+com o CFM para alinhamento de estratégias e
+aprendizado mútuo”. (Texto adaptado – Fonte:
+http://www.cremers.org.br).
+QUESTÃO 11 – O dia e a hora das eleições dos
+membros dos Conselhos Regionais são fixados
+pelo Conselho Federal de Medicina. O voto é
+________________ em todas as eleições, salvo
+doença ou ausência comprovada do votante da
+região, devidamente justificadas. Por falta
+injustificada à eleição, incorrerá o médico
+faltoso em _____________________ cobrada
+na reincidência.
+Assinale a alternativa que preenche, correta e
+respectivamente, as lacunas do trecho acima.
+A) coletivo e obrigatório – cassação da carteira
+profissional
+B) pessoal e facultativo – suspensão do
+exercício profissional por até 30 (trinta) dias
+C) pessoal e obrigatório – multa
+D) por chapa e facultativo – censura pública em
+publicação oficial
+E) coletivo e obrigatório – suspensão do
+exercício profissional por até 30 (trinta) dias
+QUESTÃO 12 – Os médicos, eventualmente
+ausentes da sede das eleições,
+A) enviarão seus votos por e-mail direcionado
+ao Presidente do Conselho Regional.
+B) perderão o direito de votar.
+C) enviarão seus votos em sobrecarta dupla,
+opaca, fechada e remetida, sob registro pelo
+correio, juntamente com ofício ao Presidente
+do Conselho Regional e com firma
+reconhecida.
+D) serão suspensos do exercício profissional em
+até 30 (trinta) dias.
+E) enviarão seus votos por motoboy ou qualquer
+outro meio de deslocamento, desde que seja
+protocolado na secretaria do Conselho o seu
+recebimento.
+QUESTÃO 13 – Os médicos legalmente
+habilitados ao exercício da profissão em virtude
+dos diplomas que lhes foram conferidos pelas
+Faculdades de Medicina oficiais ou
+___________ do país só poderão desempenhálo efetivamente depois de inscreverem-se nos
+_____________________ que jurisdicionarem
+a área de sua atividade profissional. Esses
+profissionais inscritos ficarão obrigados ao
+pagamento de ____________ a serem fixadas
+pelo(a) _____________________.
+Assinale a alternativa que preenche, correta e
+respectivamente, as lacunas do trecho acima.
+A) convênios de saúde – Conselhos Federais de
+Medicina – anuidade – Conselho Estadual de
+Medicina
+B) privadas – Planos de Saúde – anuidade –
+Conselho Federal de Medicina
+C) reconhecidas – Conselhos Municipais de
+Medicina – mensalidade – Secretaria de
+Saúde
+D) reconhecidas – Conselhos Regionais de
+Medicina – anuidade – Conselho Federal de
+Medicina
+E) não oficiais – Convênios Médicos de Saúde –
+mensalidade – SUS
+430_LEG_NM_21/6/201714:53:22
+Execução: Fundatec
+NÍVEL MÉDIO
+6
+QUESTÃO 14 – Considere o contexto
+apresentado na notícia abaixo:
+“Médico é preso por abusar sexualmente de
+pacientes em Florianópolis – No Conselho
+Regional de Medicina de Santa Catarina não
+consta nenhuma denúncia de cunho sexual
+contra o médico, somente queixas por
+aviamento de receitas. Após a prisão do médico,
+o CRM reunirá os materiais publicados na
+imprensa para que seja então aberta uma
+sindicância para apurar as denúncias” (Texto
+adaptado - Fonte: Notícias do Dia).
+Em relação à notícia publicada e as penas
+disciplinares aplicáveis pelos Conselhos
+Regionais aos seus membros, poderá ser aberto
+um processo que poderá culminar na:
+A) Cassação do exercício profissional.
+B) Prisão preventiva do médico infrator.
+C) Prestação pecuniária.
+D) Prestação de serviços à comunidade ou a
+entidades públicas.
+E) Perda de bens e valores.
+Para responder às questões de 15 a 17,
+considere o disposto na Lei Federal
+nº 3.268/1957, que dispõe sobre os
+Conselhos de Medicina.
+QUESTÃO 15 – Umas das atribuições dos
+Conselhos Regionais de Medicina é manter um
+registro dos médicos, legalmente habilitados,
+com exercício na respectiva Região, e expedir
+suas carteiras profissionais. Quanto do valor
+arrecadado com as taxas de expedição de
+carteiras profissionais constitui parte da renda
+dos Conselhos Regionais?
+A) Um terço (1/3).
+B) Metade.
+C) Um quarto (1/4).
+D) Cem por cento.
+E) Dois terços (2/3).
+QUESTÃO 16 – O mandato dos membros do
+Conselho Federal de Medicina será meramente
+honorífico e durará:
+A) 5 anos.
+B) 4 anos.
+C) 3 anos.
+D) 2 anos.
+E) 1 ano.
+QUESTÃO 17 – Assinale a alternativa
+INCORRETA no que se refere à composição de
+membros do Conselho Federal de Medicina.
+A) É composto por 28 conselheiros titulares.
+B) É composto por 15 suplentes.
+C) Entre os conselheiros, está um representante
+de cada Estado da Federação.
+D) Entre os conselheiros, está um representante
+do Distrito Federal.
+E) Entre os conselheiros, está um representante
+e o respectivo suplente indicado pela
+Associação Médica Brasileira.
+QUESTÃO 18 – De acordo com o descrito na
+Resolução CFM nº 2.147/2016, que estabelece
+normas sobre a responsabilidade, atribuições e
+direitos de diretores e chefias de serviço em
+ambientes médicos, relacione a Coluna 1 à
+Coluna 2, associando as responsabilidades e
+competências às suas funções.
+Coluna 1
+1. Diretor técnico.
+2. Diretor clínico.
+Coluna 2
+( ) Responsável perante os Conselhos
+Regionais de Medicina, autoridades
+sanitárias, Ministério Público, Judiciário e
+demais autoridades pelos aspectos formais
+do funcionamento do estabelecimento
+assistencial que represente.
+( ) Representante do corpo clínico do
+estabelecimento assistencial perante o
+corpo diretivo da instituição.
+( ) É assegurado direito de suspender integral
+ou parcialmente as atividades do
+estabelecimento assistencial médico sob
+sua Direção quando faltarem as condições
+funcionais previstas nas normas e
+resoluções expedidas pelo CFM.
+( ) Responsável pela assistência médica,
+coordenação e supervisão dos serviços
+médicos na instituição, sendo
+obrigatoriamente eleito pelo corpo clínico.
+A ordem correta de preenchimento dos
+parênteses, de cima para baixo, é:
+A) 2 – 2 – 1 – 1
+B) 1 – 2 – 1 – 2
+C) 2 – 1 – 1 – 2
+D) 1 – 2 – 2 – 1
+E) 1 – 1 – 2 – 2
+430_LEG_NM_21/6/201714:53:22
+Execução: Fundatec
+NÍVEL MÉDIO
+7
+Para responder às questões 19 e 20,
+considere a Resolução CFM nº 1.980/2011,
+que fixa regras para cadastro, registro,
+responsabilidade técnica e cancelamento
+para as pessoas jurídicas e dá outras
+providências.
+QUESTÃO 19 – Devem registrar-se nos
+Conselhos Regionais de Medicina da jurisdição
+territorial, EXCETO:
+A) Estabelecimentos hospitalares e de saúde,
+mantidos pela União, estados-membros e
+municípios, bem como suas autarquias e
+fundações públicas.
+B) Empresas e/ou instituições prestadoras de
+serviços exclusivos médico-hospitalares
+mantidas por associações de pais e amigos
+de excepcionais e deficientes.
+C) Empresas, instituições, entidades ou
+estabelecimentos prestadores e/ou
+intermediadores de assistência à saúde com
+personalidade jurídica de direito privado.
+D) Cooperativas de trabalho e serviço médico.
+E) Corretoras de Saúde, com oferta de
+contratação de Planos de Saúde, Seguro
+Saúde, Seguro de Vida e Previdência Privada.
+QUESTÃO 20 – Qual das informações abaixo
+NÃO é solicitada no requerimento de registro no
+Conselho regional de Medicina?
+A) Relação de médicos componentes do corpo
+clínico, indicando a natureza do vínculo com
+a empresa, se associado ou quotista, se
+contratado sob a forma da legislação
+trabalhista ou sem vínculo.
+B) Tipo de estabelecimento (hospital, clínica,
+laboratório, dentre outros) e especialidades
+desenvolvidas.
+C) Nome e número de CRM do médico
+responsável técnico.
+D) Certidão negativa do INSS.
+E) Alvará da vigilância sanitária.
+430_RL_NM_21/6/201714:54:45
+Execução: Fundatec
+NÍVEL MÉDIO
+8
+RACIOCÍNIO LÓGICO
+QUESTÃO 21 – Considerando as proposições:
+Maria é médica uma sentença falsa.
+Carlos é médico uma sentença verdadeira.
+Podemos concluir que teremos uma sentença
+composta verdadeira na alternativa:
+A) Maria e Carlos são médicos.
+B) Maria é medica, mas Carlos não é médico.
+C) Maria não é médica, mas Carlos é médico.
+D) Maria e Carlos não são médicos.
+E) Maria é médica ou Carlos não é médico.
+QUESTÃO 22 – A sentença proposicional
+composta: Se Antônia é médica e
+anestesista então ela realiza plantão de
+seis horas é uma sentença falsa quando:
+A) As sentenças Antônia é médica e Antônia é
+anestesista são verdadeiras e a sentença
+Antônia realiza plantão de 6 horas é
+verdadeira.
+B) As sentenças Antônia é médica e Antônia é
+anestesista são verdadeiras e a sentença
+Antônia realiza plantão de 6 horas é falsa.
+C) A sentença Antônia é médica é verdadeira e
+as sentenças Antônia é anestesista e Antônia
+realiza plantão de 6 horas são falsas.
+D) A sentença Antônia é médica é falsa e as
+sentenças Antônia é anestesista e Antônia
+realiza plantão de 6 horas são verdadeiras.
+E) As sentenças Antônia é médica, Antônia é
+anestesista e Antônia realiza plantão de 6
+horas são falsas.
+QUESTÃO 23 – A Secretaria de Saúde deve
+distribuir 36 ambulâncias entre três municípios,
+sendo que o primeiro município deve receber
+metade das ambulâncias, o segundo município
+deve receber um terço dessas ambulâncias e o
+terceiro município deve receber um nono das
+ambulâncias. A alternativa que apresenta o
+número de ambulâncias recebidas pelos
+respectivos municípios e uma argumentação
+correta para essa distribuição é:
+A) 18, 12 e 4 e sobram 2, pois o critério de
+distribuição fracionária não forma um inteiro.
+B) 18, 12 e 6 e não sobra nenhuma, pois o
+critério de distribuição fracionária forma um
+inteiro.
+C) 17, 13 e 6 e não sobra nenhuma, pois o
+critério de distribuição fracionária forma um
+inteiro.
+D) 18, 9 e 1 e sobram 8, pois o critério de
+distribuição fracionária não forma um inteiro.
+E) 18, 6 e 12 e sobram 2, pois o critério de
+distribuição fracionária não forma um inteiro.
+QUESTÃO 24 – Um paciente recebe
+medicamento de uso contínuo do posto de
+saúde. A caixa desse medicamento contém 4
+cartelas; cada cartela tem 15 comprimidos que
+devem ser ingeridos de 8 em 8 horas. Essa
+quantidade de comprimidos de uma caixa
+permite que a pessoa tenha medicamento para
+um período de:
+A) 15 dias.
+B) 20 dias.
+C) 25 dias.
+D) 30 dias.
+E) 40 dias.
+QUESTÃO 25 – A partir das seguintes
+hipóteses:
+Se João é intolerante à lactose então ele
+não bebe leite integral. Mas João não bebe
+leite de soja, entretanto ele bebe leite
+integral.
+Podemos deduzir que é verdadeira a afirmação
+da alternativa:
+A) João bebe leite de soja.
+B) João não é intolerante à lactose.
+C) João é intolerante à lactose.
+D) João não bebe leite integral.
+E) João bebe leite integral e de soja.
+430_RL_NM_21/6/201714:54:45
+Execução: Fundatec
+NÍVEL MÉDIO
+9
+QUESTÃO 26 – Se Pedro ou Renato é médico
+então Pedro tem sala no centro comercial. Sabese que Pedro não tem sala no centro comercial.
+Portanto, deduzimos que:
+A) Pedro ou Renato não é médico.
+B) Pedro e Renato não são médicos.
+C) Pedro é médico e Renato não é médico.
+D) Pedro não é médico e Renato é médico.
+E) Pedro não é médico ou Renato é médico.
+QUESTÃO 27 – Supondo que é verdadeira a
+afirmação de que: Se Marcela é pediatra então
+ela faz plantão no pronto-socorro infantil, é um
+erro de argumentação afirmar que:
+A) Se Marcela não é pediatra então ela não faz
+plantão no pronto-socorro infantil.
+B) Se Marcela não faz plantão no pronto-socorro
+infantil então ela não é pediatra.
+C) Marcela não é pediatra ou ela faz plantão no
+pronto-socorro infantil.
+D) Marcela faz plantão no pronto-socorro infantil
+ou ela não é pediatra.
+E) Nego que Marcela é pediatra e não faz
+plantão no pronto-socorro infantil.
+QUESTÃO 28 – Um hospital tem dois blocos
+cirúrgicos, A e B. No bloco cirúrgico A, as
+equipes são formadas por exatamente um
+médico e três enfermeiros. No bloco cirúrgico B,
+as equipes são formadas por exatamente dois
+médicos e quatro enfermeiros. Se em um
+determinado turno o hospital tem 17 médicos e
+39 enfermeiros para atender os dois blocos
+cirúrgicos, então o número de equipes formadas
+para o bloco A e o bloco B são, respectivamente:
+A) 3 e 7.
+B) 9 e 3.
+C) 3 e 9.
+D) 5 e 6.
+E) 6 e 5.
+QUESTÃO 29 – A secretária de um centro
+clínico tem em mãos três pastas de
+atendimentos a três clientes diferentes: pasta A,
+pasta B e pasta C. Uma pasta é azul, a outra é
+amarela e a outra é laranja. Mas as pastas não
+estão nessa ordem. Sabendo que somente uma
+das afirmações a seguir é verdadeira,
+Pasta A é amarela.
+Pasta B não é amarela.
+Pasta C não é azul.
+a cor das pastas A, B e C, nessa ordem, é:
+A) Amarela, laranja e azul.
+B) Amarela, azul e laranja.
+C) Azul, amarela e laranja.
+D) Azul, laranja e amarela.
+E) Laranja, amarela e azul.
+QUESTÃO 30 – Paulo ou Pedro está no
+consultório. Se Paulo está no consultório então
+o paciente foi atendido. Se o paciente foi
+atendido então o seu prontuário foi impresso.
+No caso de Pedro não estar no consultório,
+podemos deduzir que:
+A) Paulo está no consultório, o paciente não foi
+atendido ou seu prontuário impresso.
+B) Paulo está no consultório, o paciente não foi
+atendido e seu prontuário impresso.
+C) Paulo está no consultório, o paciente foi
+atendido e seu prontuário não foi impresso.
+D) Paulo está no consultório, o paciente não foi
+atendido e seu prontuário não impresso.
+E) Paulo está no consultório, o paciente foi
+atendido e seu prontuário impresso.
+430_CE_04_NM_21/6/201712:10:25
+Execução: Fundatec
+TÉCNICO EM INFORMÁTICA
+10
+CONHECIMENTOS ESPECÍFICOS
+QUESTÃO 31 – Em relação ao modelo
+conceitual de um banco de dados, é correto
+afirmar que:
+A) Começou a ser implementado pelos SGBDs
+da Oracle.
+B) Começou a ser implementado pelos SGBDs
+da Microsoft.
+C) É aplicado quando o paradigma adotado é
+orientado a objetos.
+D) Trata-se da descrição do banco de dados de
+forma independente de implementação em
+um SGBD.
+E) Trata-se da descrição de um banco de dados
+no nível de abstração visto pelo usuário do
+SGBD.
+QUESTÃO 32 – Analisando uma tabela em um
+banco de dados relacional, qual seria o conceito
+de chave primária?
+A) Apenas uma coluna que possua valor
+numérico e autoincremental.
+B) Apenas uma coluna que possua valor
+numérico e não autoincremental.
+C) Uma coluna que permita a inserção de um
+valor de documento válido.
+D) Uma coluna que permita a inserção de um
+valor de documento inválido.
+E) Uma coluna ou combinação de colunas cujos
+valores distinguem uma linha das demais,
+dentro da mesma tabela.
+A Figura 1 abaixo contém um algoritmo
+escrito através do software VISUALG
+3.0.6.5. Suponha que o valor de entrada na
+linha 8 (instrução leia) seja 94823540015.
+Com base neste algoritmo e na entrada de
+dados citada, responda às questões 33 a
+36.
+Figura 1 – Algoritmo escrito através do
+software VISUALG 3.0.6.5.
+QUESTÃO 33 – O que deve ser impresso com
+a execução de escreval(cont)// Questão 3?
+A) 1
+B) 3
+C) 5
+D) 7
+E) 9
+430_CE_04_NM_21/6/201712:10:25
+Execução: Fundatec
+TÉCNICO EM INFORMÁTICA
+11
+QUESTÃO 34 – O que deve ser impresso com
+a execução de escreval(dv1) // Questão 4?
+A) 0
+B) 1
+C) 2
+D) 4
+E) 7
+QUESTÃO 35 – O que deve ser impresso com
+a execução de escreval(dv2) // Questão 5?
+A) 2
+B) 3
+C) 7
+D) 8
+E) 9
+QUESTÃO 36 – Analisando a execução a partir
+da linha 35, pode-se constatar que deve ser
+impresso:
+A) CPF invalido! e o valor de dv1 deve ser
+menor que 3.
+B) CPF invalido! e o valor de dv2 deve ser
+menor que 7.
+C) CPF valido! e o valor de cont deve ser maior
+que 3.
+D) CPF valido! e o valor de dv1 deve ser menor
+que 6.
+E) CPF valido! e o valor de dv2 deve ser maior
+que 4.
+QUESTÃO 37 – Ao montar um
+microcomputador, é importante verificar se o
+soquete é compatível com o processador. Sabese que o Core 2 Duo utiliza o soquete LGA-775,
+enquanto o Core i7 utiliza o soquete:
+A) LGA-1200
+B) LGA-1366
+C) LGA-1500
+D) LGB-775
+E) LGB-1250
+QUESTÃO 38 – Em relação às interfaces
+utilizadas como meio de conexão com os HDs, é
+correto afirmar que:
+A) Controladoras SATA 300 são popularmente
+chamadas de SATA IV.
+B) O cabo IDE possui dois encaixes, um ligado
+na placa-mãe e o outro em um HD.
+C) Placas-mãe com 4 portas IDE permitem até 6
+drives.
+D) SATA é um barramento serial.
+E) Um cabo IDE é mais fino que um cabo SATA.
+QUESTÃO 39 – Na montagem de um
+microcomputador, após instalar o processador,
+o que é recomendado passar sobre ele para
+melhorar a condutividade térmica com o cooler?
+A) Camada de espuma.
+B) Camada de isopor.
+C) Pasta térmica.
+D) Tecido térmico.
+E) Vaselina.
+QUESTÃO 40 – Em uma rede local Ethernet, a
+interface de rede é identificada pelo endereço
+MAC. Quando é utilizado o protocolo IP como
+camada de rede, como é realizada a tradução do
+endereço MAC/endereço IP?
+A) Através do protocolo ARP.
+B) Através do serviço NAT.
+C) Com a utilização de métricas de conversão.
+D) Com a utilização de tabelas de
+gerenciamento de redes ou com o protocolo
+CSMA/CD.
+E) Com a utilização de tabelas de
+gerenciamento de redes ou com o protocolo
+SNMP.
+QUESTÃO 41 – Em uma rede padrão IEEE
+802.11, uma vez associada a um ponto de
+acesso sem fio, uma estação sem fio pode
+começar a enviar/receber quadros de dados
+(tráfego realizado entre a estação e o ponto de
+acesso). Para coordenar diversas estações
+enviando/recebendo quadros simultaneamente
+nesta rede, é utilizado o protocolo:
+A) ARP.
+B) CSMA/CA.
+C) CSMA/CD.
+D) DHCP.
+E) NAT.
+430_CE_04_NM_21/6/201712:10:25
+Execução: Fundatec
+TÉCNICO EM INFORMÁTICA
+12
+QUESTÃO 42 – Em uma rede IP, a notação /23
+é equivalente à máscara:
+A) 255.255.128.0
+B) 255.255.254.0
+C) 255.255.255.0
+D) 255.255.255.128
+E) 255.255.255.192
+QUESTÃO 43 – Tradicionalmente, a segurança
+da informação possui como base o acrônimo
+C.I.D., que significa:
+A) Confiabilidade, internet e disponibilidade.
+B) Confiabilidade, internet e dados.
+C) Confiabilidade, integridade e dados.
+D) Confidencialidade, integridade e
+disponibilidade.
+E) Confidencialidade, integridade e dados.
+QUESTÃO 44 – Como é conhecido o ataque que
+explora uma vulnerabilidade previamente
+desconhecida?
+A) Ataque de dia zero.
+B) Ataque de força bruta.
+C) Exploit.
+D) Pentest.
+E) Rainbow tables.
+QUESTÃO 45 – Suponha a seguinte situação:
+Adão deseja enviar um e-mail sigiloso para Eva,
+de forma que apenas Eva consiga ler o
+conteúdo. Ambos decidem utilizar o algoritmo
+de criptografia RSA. Que chave deve ser
+utilizada por Adão para cifrar o e-mail e que
+chave deve ser utilizada por Eva para decifrá-lo,
+respectivamente?
+A) Chave privada de Adão e chave pública de
+Adão.
+B) Chave privada de Eva e chave pública de Eva.
+C) Chave pública de Eva e chave privada de Eva.
+D) Chave única de 128 bits por ambos.
+E) Chave única de 256 bits por ambos.
+QUESTÃO 46 – Quando se aplica carving
+baseado em cabeçalho/rodapé com a intenção
+de buscar arquivos no formato PNG, é possível
+recuperar:
+A) Apenas o conteúdo de arquivos.
+B) Apenas o conteúdo e o nome de arquivos.
+C) Apenas o conteúdo, o nome e as pastas
+(diretórios) onde se encontravam os
+arquivos.
+D) Apenas o conteúdo, o nome, o autor e as
+pastas (diretórios) onde se encontravam os
+arquivos.
+E) Todos os metadados e o conteúdo de
+arquivos.
+QUESTÃO 47 – No MS Word 2013, o que deve
+ocorrer com um determinado texto se ele for
+selecionado e, após, for clicado em ?
+A) Será realçado com uma cor brilhante.
+B) Será sublinhado com a cor escolhida.
+C) Terá a cor da fonte alterada pela cor
+mostrada.
+D) Terá uma correção ortográfica aplicada.
+E) Terá uma correção semântica aplicada.
+QUESTÃO 48 – Utilizando o MS Power Point
+2013, suponha que uma apresentação possua
+vinte slides e que o usuário esteja editando o
+décimo. Quando termina de editar, ele deseja
+colocar em modo apresentação a partir do slide
+atual (décimo) e não começar a apresentação
+no primeiro. Que tecla ou combinação de teclas
+deve ser utilizada?
+A) F2.
+B) F5.
+C) F8.
+D) Ctrl + F2.
+E) Shift + F5.
+430_CE_04_NM_21/6/201712:10:25
+Execução: Fundatec
+TÉCNICO EM INFORMÁTICA
+13
+Para responder às questões 49 e 50,
+considere a Figura 2 abaixo.
+Figura 2 – Planilha Excel 2013.
+QUESTÃO 49 – Que fórmula pode ser utilizada
+para saber quantas vezes a sala 1 foi reservada?
+A) =SE(A2:A13=1; SOMA(A2:A13))
+B) =SE(A2:A13==1; SOMA(A2;A13))
+C) =SE(A2:A13=1; SOMASE(A2:A13))
+D) =CONT.SE(A2:A13;=1)
+E) =CONT.SE(A2:A13;"1")
+QUESTÃO 50 – Suponha que na coluna D
+deseja-se colocar o sexo do responsável pela
+reserva da sala e que há apenas três
+funcionários, a saber: Maria (mulher), José
+(homem) e Ronaldo (homem). Rui não é
+funcionário, portando não tem cadastro. Que
+fórmula poderia ser utilizada em D2 para que
+apareça F para Maria, M para José e Ronaldo e
+? para qualquer outra pessoa?
+A) =SE(C2="Maria";"F";SE(C2="José";"?";SE
+(C2="Ronaldo";"F";"M")))
+B) =SE(C2="Maria";"F";SE(C2="José";"M";SE
+(C2="Ronaldo";"M";"?")))
+C) =SE(C2<>"Maria";"F";SE(C2="José";"M";SE
+(C2="Ronaldo";"M";"?")))
+D) =SE(C2<>"Maria";"M";SE(C2="Rui";"M";SE
+(C2="Ronaldo";"M";"?")))
+E) =SE(C2<>"Maria";"F";SE(C2="José";"M";SE
+(C2="Rui"
